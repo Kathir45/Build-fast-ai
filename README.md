@@ -99,19 +99,6 @@ Before you begin, ensure you have:
 
 ---
 
-## 🎬 Demo
-
-### Chat Interface
-![Chat Interface](https://via.placeholder.com/800x450/4F46E5/FFFFFF?text=Chat+Interface+Demo)
-
-### Document Upload
-![Document Upload](https://via.placeholder.com/800x450/10B981/FFFFFF?text=Document+Upload+Demo)
-
-### Dark Mode & Chat History
-![Dark Mode](https://via.placeholder.com/800x450/8B5CF6/FFFFFF?text=Dark+Mode+%26+History)
-
----
-
 ## 🚀 Quick Start
 
 ### Prerequisites
