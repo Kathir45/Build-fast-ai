@@ -352,9 +352,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 📧 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/rag-chatbot/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/rag-chatbot/discussions)
-- **Email**: your.email@example.com
+- **Issues**: [GitHub Issues](https://github.com/kathir45/rag-chatbot/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/kathir45/rag-chatbot/discussions)
+- **Email**: kathirselvam05@gmail.com
 
 ---
 
@@ -362,6 +362,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Built with ❤️ using Next.js, Gemini AI, and Supabase**
 
-[⭐ Star this repo](https://github.com/yourusername/rag-chatbot) • [🐛 Report Bug](https://github.com/yourusername/rag-chatbot/issues) • [✨ Request Feature](https://github.com/yourusername/rag-chatbot/issues)
+[⭐ Star this repo](https://github.com/KATHIR45/rag-chatbot) • [🐛 Report Bug](https://github.com/kathir45/rag-chatbot/issues) • [✨ Request Feature](https://github.com/kathir45/rag-chatbot/issues)
 
 </div>
