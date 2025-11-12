@@ -9,7 +9,7 @@
 
 *A production-ready, full-featured RAG chatbot with authentication, chat history, and intelligent document processing*
 
-### 🌐 **[Live Demo on Vercel →](https://your-app-name.vercel.app)**
+### 🌐 **[Live Demo on Vercel →](https://build-fast-ai.vercel.app/)**
 > **Note**: After deploying to Vercel, update this link with your actual deployment URL
 
 [Features](#-features) • [Screenshots](#-screenshots--demo) • [Setup](#-quick-start) • [Architecture](#-architecture--technical-details) • [Deploy](#-deployment-to-vercel)
